@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652533152 source:c:\users\administrador\desktop\proyectos personales\wordle\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
